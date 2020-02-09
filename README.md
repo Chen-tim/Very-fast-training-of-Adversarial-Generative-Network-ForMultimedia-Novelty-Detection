@@ -1,0 +1,1 @@
+# Very-fast-training-of-Adversarial-Generative-Network-ForMultimedia-Novelty-Detection
